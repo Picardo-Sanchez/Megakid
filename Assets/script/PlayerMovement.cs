@@ -37,13 +37,16 @@ public class PlayerMovement : MonoBehaviour {
     {
         float translate = Input.GetAxis("Horizontal") * speed * Time.deltaTime;
         transform.Translate(translate, 0, 0);
-
-        if(translate > 0)
+        if (translate != 0)
         {
-            playerDirection = Direction.RIGHT;
-        }else if (translate < 0)
-        {
-            playerDirection = Direction.LEFT;
+            if (translate > 0)
+            {
+                playerDirection = Direction.RIGHT;
+            }
+            else if (translate < 0)
+            {
+                playerDirection = Direction.LEFT;
+            }
         }
     }
 
