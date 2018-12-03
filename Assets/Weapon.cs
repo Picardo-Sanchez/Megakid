@@ -5,6 +5,9 @@ using UnityEngine;
 public class Weapon : MonoBehaviour {
 
     public GameObject bullet;
+    public GameObject bulletCharge;
+    bool charge = false;
+    int count = 0;
 
     private PlayerMovement playerMovement;
 	// Use this for initialization
@@ -19,5 +22,31 @@ public class Weapon : MonoBehaviour {
             var tBullet = Instantiate(bullet, gameObject.transform.position, bullet.transform.rotation) as GameObject;
             tBullet.GetComponent<Bullet>().bulletDirection = playerMovement.PlayerDirection;
         }
+    
 	}
+    
+    private void FixedUpdate()
+    {
+        if (Input.GetButton("Tir"))
+        {
+            count++;
+            
+        }
+        else
+        {
+
+        }
+        if (Input.GetButtonUp("Tir"))
+        {
+            print (count);
+            if( count > 89)
+            {
+                var tBullet = Instantiate(bulletCharge, gameObject.transform.position, bullet.transform.rotation) as GameObject;
+                tBullet.GetComponent<Bullet>().bulletDirection = playerMovement.PlayerDirection;
+                charge = false;
+            }
+            count = 0;
+
+        }
+    }
 }
