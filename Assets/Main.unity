@@ -228,6 +228,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bullet: {fileID: 1812073466728346, guid: c31d98327b8616649b058e9c3b0c6aba, type: 2}
+  bulletCharge: {fileID: 1018709614434158, guid: e1c9e0783ff5bc1498b195aa64581660,
+    type: 2}
 --- !u!1001 &1808746337
 Prefab:
   m_ObjectHideFlags: 0
