@@ -57,14 +57,21 @@ public class PlayerMovement : MonoBehaviour {
             _rigidbody.AddForce(new Vector2(0, jumpPower), ForceMode2D.Impulse);
         }
     }
-    void OnCollisionEnter2D()
-        {
-        isOnGround = true;
-        }
 
-    void OnCollisionExit2D()
+    void OnCollisionEnter2D(Collision2D collision)
     {
-        isOnGround = false;
+        if (collision.gameObject.tag=="sol")
+        {
+                isOnGround = true;
+        }
+        
     }
 
-}
+    void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "sol")
+        {
+            isOnGround = false;
+        }
+    }
+    }
