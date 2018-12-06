@@ -39,7 +39,7 @@ public class Weapon : MonoBehaviour {
         if (Input.GetButtonUp("Tir"))
         {
             print (count);
-            if( count > 89)
+            if( count > 69)
             {
                 var tBullet = Instantiate(bulletCharge, gameObject.transform.position, bullet.transform.rotation) as GameObject;
                 tBullet.GetComponent<Bullet>().bulletDirection = playerMovement.PlayerDirection;
