@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public enum Direction { LEFT, RIGHT };
-public class PlayerMovement : MonoBehaviour {
+public class PlayerMovement : MonoBehaviour
+{
 
     public float speed = 5.0f;
     public bool isOnGround = false;
@@ -21,22 +22,24 @@ public class PlayerMovement : MonoBehaviour {
         }
     }
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start()
+    {
         _transform = GetComponent(typeof(Transform)) as Transform;
         _rigidbody = GetComponent(typeof(Rigidbody2D)) as Rigidbody2D;
-	}
-	
-	// Update is called once per frame
-	void Update () {
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
         MovePlayer();
         Jump();
-	}
+    }
 
     void MovePlayer()
     {
-        float translate = Input.GetAxis("Horizontal") * speed * Time.deltaTime;
-        transform.Translate(translate, 0, 0);
+        float translate = Input.GetAxis("Horizontal") * speed;
+        //transform.Translate(translate, 0, 0);
         if (translate != 0)
         {
             if (translate > 0)
@@ -48,6 +51,8 @@ public class PlayerMovement : MonoBehaviour {
                 playerDirection = Direction.LEFT;
             }
         }
+
+        _rigidbody.velocity = new Vector2(translate, _rigidbody.velocity.y); 
     }
 
     void Jump()
@@ -58,20 +63,8 @@ public class PlayerMovement : MonoBehaviour {
         }
     }
 
-    void OnCollisionEnter2D(Collision2D collision)
+    public void SetOnGround(bool value)
     {
-        if (collision.gameObject.tag=="sol")
-        {
-                isOnGround = true;
-        }
-        
+        isOnGround = value;
     }
-
-    void OnCollisionExit2D(Collision2D collision)
-    {
-        if (collision.gameObject.tag == "sol")
-        {
-            isOnGround = false;
-        }
-    }
-    }
+}
