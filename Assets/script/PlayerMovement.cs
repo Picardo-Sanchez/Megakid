@@ -42,7 +42,7 @@ public class PlayerMovement : MonoBehaviour
     void MovePlayer()
     {
         float translate = Input.GetAxis("Horizontal") * speed;
-        transform.Translate(translate, 0, 0);
+        //transform.Translate(translate, 0, 0);
         ManageAnimations(translate);
     }
 
