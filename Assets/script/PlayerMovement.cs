@@ -7,7 +7,7 @@ public class PlayerMovement : MonoBehaviour
 {
 
     public float speed = 5.0f;
-    public bool isOnGround = false;
+    private bool isOnGround = false;
     public float jumpPower = 7.0f;
     public Weapon Weapon;
 
