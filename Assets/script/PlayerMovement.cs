@@ -42,7 +42,7 @@ public class PlayerMovement : MonoBehaviour
     void MovePlayer()
     {
         float translate = Input.GetAxis("Horizontal") * speed;
-        //transform.Translate(translate, 0, 0);
+        transform.Translate(translate, 0, 0);
         ManageAnimations(translate);
     }
 
@@ -68,20 +68,20 @@ public class PlayerMovement : MonoBehaviour
             }
             else
             {
-                if (Weapon.Firing)
-                {
-                    switch (playerDirection)
-                    {
-                        case Direction.RIGHT:
-                            anim.Play("megakid tir fixe right");
-                            break;
-                        case Direction.LEFT:
-                            anim.Play("megakid tir fixe left");
-                            break;
-                    }
-                }
-                else
-                {
+                //if (Weapon.Firing)
+                //{
+                  //  switch (playerDirection)
+                    //{
+                      //  case Direction.RIGHT:
+                        //    anim.Play("megakid tir fixe right");
+                          //  break;
+                        //case Direction.LEFT:
+                          //  anim.Play("megakid tir fixe left");
+                            //break;
+                    //}
+                //}
+                //else
+                //{
                     switch (playerDirection)
                     {
                         case Direction.RIGHT:
@@ -92,7 +92,7 @@ public class PlayerMovement : MonoBehaviour
                             break;
                     }
                 }
-            }
+            //}
         }
         else
         {
