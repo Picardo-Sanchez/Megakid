@@ -27,7 +27,6 @@ public class PlayerMovement : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        //anim = GetComponent<Animator>();
         _transform = GetComponent(typeof(Transform)) as Transform;
         _rigidbody = GetComponent(typeof(Rigidbody2D)) as Rigidbody2D;
     }
@@ -43,7 +42,7 @@ public class PlayerMovement : MonoBehaviour
     void MovePlayer()
     {
         float translate = Input.GetAxis("Horizontal") * speed;
-        transform.Translate(translate, 0, 0);
+        //transform.Translate(translate, 0, 0);
         ManageAnimations(translate);
     }
 
@@ -78,7 +77,7 @@ public class PlayerMovement : MonoBehaviour
                             break;
                         case Direction.LEFT:
                             anim.Play("megakid tir fixe left");
-                            break;                               
+                            break;
                     }
                 }
                 else
@@ -94,7 +93,6 @@ public class PlayerMovement : MonoBehaviour
                     }
                 }
             }
-            
         }
         else
         {
@@ -109,8 +107,7 @@ public class PlayerMovement : MonoBehaviour
 
             }
         }
-        //_rigidbody.velocity = new Vector2(translate, _rigidbody.velocity.y);
-
+        _rigidbody.velocity = new Vector2(translate, _rigidbody.velocity.y);
     }
 
     void Jump()
@@ -122,25 +119,9 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    void OnCollisionEnter2D(Collision2D collision)
+    public void SetOnGround(bool value)
     {
-        if (collision.gameObject.tag == "sol")
-        {
-            isOnGround = true;
-        }
-
+        isOnGround = value;
     }
-
-    void OnCollisionExit2D(Collision2D collision)
-    {
-        if (collision.gameObject.tag == "sol")
-        {
-            isOnGround = false;
-        }
-    }
-  //public void SetOnGround(bool value)
-    //{
-      //  isOnGround = value;
-    //}
 
 }
