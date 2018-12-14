@@ -7,7 +7,7 @@ public class PlayerMovement : MonoBehaviour
 {
 
     public float speed = 5.0f;
-    public bool isOnGround = false;
+    private bool isOnGround = false;
     public float jumpPower = 7.0f;
     public Weapon Weapon;
 
@@ -42,7 +42,7 @@ public class PlayerMovement : MonoBehaviour
 
     void MovePlayer()
     {
-        float translate = Input.GetAxis("Horizontal") * speed;
+        float translate = Input.GetAxis("Horizontal") * speed ;
         transform.Translate(translate, 0, 0);
         ManageAnimations(translate);
     }
