@@ -111,5 +111,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 456682fefe58ed7448b7ce6f86974b4e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  anim: {fileID: 0}
   bulletDirection: 1
-  speed: 10
+  speed: 15

@@ -36,6 +36,7 @@ public class PlayerMovement : MonoBehaviour
     {
         MovePlayer();
         Jump();
+
     }
 
     void MovePlayer()
@@ -92,7 +93,6 @@ public class PlayerMovement : MonoBehaviour
                     }
                 }
             }
-
         }
         else
         {
@@ -108,7 +108,6 @@ public class PlayerMovement : MonoBehaviour
             }
         }
         _rigidbody.velocity = new Vector2(translate, _rigidbody.velocity.y);
-
     }
 
     void Jump()
@@ -116,6 +115,7 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space) && isOnGround)
         {
             _rigidbody.AddForce(new Vector2(0, jumpPower), ForceMode2D.Impulse);
+            
         }
     }
 
@@ -123,4 +123,5 @@ public class PlayerMovement : MonoBehaviour
     {
         isOnGround = value;
     }
+
 }

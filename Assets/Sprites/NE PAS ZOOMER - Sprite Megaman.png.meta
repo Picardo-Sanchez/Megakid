@@ -1,0 +1,777 @@
+fileFormatVersion: 2
+guid: fa74521fceeab8541bf1f841e298cd55
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NE PAS ZOOMER - Sprite Megaman_0
+    21300002: NE PAS ZOOMER - Sprite Megaman_1
+    21300004: NE PAS ZOOMER - Sprite Megaman_2
+    21300006: NE PAS ZOOMER - Sprite Megaman_3
+    21300008: NE PAS ZOOMER - Sprite Megaman_4
+    21300010: NE PAS ZOOMER - Sprite Megaman_5
+    21300012: NE PAS ZOOMER - Sprite Megaman_6
+    21300014: NE PAS ZOOMER - Sprite Megaman_7
+    21300016: NE PAS ZOOMER - Sprite Megaman_8
+    21300018: NE PAS ZOOMER - Sprite Megaman_9
+    21300020: NE PAS ZOOMER - Sprite Megaman_10
+    21300022: NE PAS ZOOMER - Sprite Megaman_11
+    21300024: NE PAS ZOOMER - Sprite Megaman_12
+    21300026: NE PAS ZOOMER - Sprite Megaman_13
+    21300028: NE PAS ZOOMER - Sprite Megaman_14
+    21300030: NE PAS ZOOMER - Sprite Megaman_15
+    21300032: NE PAS ZOOMER - Sprite Megaman_16
+    21300034: NE PAS ZOOMER - Sprite Megaman_17
+    21300036: NE PAS ZOOMER - Sprite Megaman_18
+    21300038: NE PAS ZOOMER - Sprite Megaman_19
+    21300040: NE PAS ZOOMER - Sprite Megaman_20
+    21300042: NE PAS ZOOMER - Sprite Megaman_21
+    21300044: NE PAS ZOOMER - Sprite Megaman_22
+    21300046: NE PAS ZOOMER - Sprite Megaman_23
+    21300048: NE PAS ZOOMER - Sprite Megaman_24
+    21300050: NE PAS ZOOMER - Sprite Megaman_25
+    21300052: NE PAS ZOOMER - Sprite Megaman_26
+    21300054: NE PAS ZOOMER - Sprite Megaman_27
+    21300056: NE PAS ZOOMER - Sprite Megaman_28
+    21300058: NE PAS ZOOMER - Sprite Megaman_29
+    21300060: NE PAS ZOOMER - Sprite Megaman_30
+    21300062: NE PAS ZOOMER - Sprite Megaman_31
+    21300064: NE PAS ZOOMER - Sprite Megaman_32
+    21300066: NE PAS ZOOMER - Sprite Megaman_33
+    21300068: NE PAS ZOOMER - Sprite Megaman_34
+    21300070: NE PAS ZOOMER - Sprite Megaman_35
+    21300072: NE PAS ZOOMER - Sprite Megaman_36
+    21300074: NE PAS ZOOMER - Sprite Megaman_37
+    21300076: NE PAS ZOOMER - Sprite Megaman_38
+    21300078: NE PAS ZOOMER - Sprite Megaman_39
+    21300080: NE PAS ZOOMER - Sprite Megaman_40
+    21300082: NE PAS ZOOMER - Sprite Megaman_41
+    21300084: NE PAS ZOOMER - Sprite Megaman_42
+    21300086: NE PAS ZOOMER - Sprite Megaman_43
+    21300088: NE PAS ZOOMER - Sprite Megaman_44
+    21300090: NE PAS ZOOMER - Sprite Megaman_45
+    21300092: NE PAS ZOOMER - Sprite Megaman_46
+    21300094: NE PAS ZOOMER - Sprite Megaman_47
+    21300096: NE PAS ZOOMER - Sprite Megaman_48
+    21300098: NE PAS ZOOMER - Sprite Megaman_49
+    21300100: NE PAS ZOOMER - Sprite Megaman_50
+    21300102: NE PAS ZOOMER - Sprite Megaman_51
+    21300104: NE PAS ZOOMER - Sprite Megaman_52
+    21300106: NE PAS ZOOMER - Sprite Megaman_53
+    21300108: NE PAS ZOOMER - Sprite Megaman_54
+    21300110: NE PAS ZOOMER - Sprite Megaman_55
+    21300112: NE PAS ZOOMER - Sprite Megaman_56
+    21300114: NE PAS ZOOMER - Sprite Megaman_57
+    21300116: NE PAS ZOOMER - Sprite Megaman_58
+    21300118: NE PAS ZOOMER - Sprite Megaman_59
+    21300120: NE PAS ZOOMER - Sprite Megaman_60
+    21300122: NE PAS ZOOMER - Sprite Megaman_61
+    21300124: NE PAS ZOOMER - Sprite Megaman_62
+    21300126: NE PAS ZOOMER - Sprite Megaman_63
+    21300128: NE PAS ZOOMER - Sprite Megaman_64
+    21300130: NE PAS ZOOMER - Sprite Megaman_65
+    21300132: NE PAS ZOOMER - Sprite Megaman_66
+    21300134: NE PAS ZOOMER - Sprite Megaman_67
+    21300136: NE PAS ZOOMER - Sprite Megaman_68
+    21300138: NE PAS ZOOMER - Sprite Megaman_69
+    21300140: NE PAS ZOOMER - Sprite Megaman_70
+    21300142: NE PAS ZOOMER - Sprite Megaman_71
+    21300144: NE PAS ZOOMER - Sprite Megaman_72
+    21300146: NE PAS ZOOMER - Sprite Megaman_73
+    21300148: NE PAS ZOOMER - Sprite Megaman_74
+    21300150: NE PAS ZOOMER - Sprite Megaman_75
+    21300152: NE PAS ZOOMER - Sprite Megaman_76
+    21300154: NE PAS ZOOMER - Sprite Megaman_77
+    21300156: NE PAS ZOOMER - Sprite Megaman_78
+    21300158: NE PAS ZOOMER - Sprite Megaman_79
+    21300160: NE PAS ZOOMER - Sprite Megaman_80
+    21300162: NE PAS ZOOMER - Sprite Megaman_81
+    21300164: NE PAS ZOOMER - Sprite Megaman_82
+    21300166: NE PAS ZOOMER - Sprite Megaman_83
+    21300168: NE PAS ZOOMER - Sprite Megaman_84
+    21300170: NE PAS ZOOMER - Sprite Megaman_85
+    21300172: NE PAS ZOOMER - Sprite Megaman_86
+    21300174: NE PAS ZOOMER - Sprite Megaman_87
+    21300176: NE PAS ZOOMER - Sprite Megaman_88
+    21300178: NE PAS ZOOMER - Sprite Megaman_89
+    21300180: NE PAS ZOOMER - Sprite Megaman_90
+    21300182: NE PAS ZOOMER - Sprite Megaman_91
+    21300184: NE PAS ZOOMER - Sprite Megaman_92
+    21300186: NE PAS ZOOMER - Sprite Megaman_93
+    21300188: NE PAS ZOOMER - Sprite Megaman_94
+    21300190: NE PAS ZOOMER - Sprite Megaman_95
+    21300192: NE PAS ZOOMER - Sprite Megaman_96
+    21300194: NE PAS ZOOMER - Sprite Megaman_97
+    21300196: NE PAS ZOOMER - Sprite Megaman_98
+    21300198: NE PAS ZOOMER - Sprite Megaman_99
+    21300200: NE PAS ZOOMER - Sprite Megaman_100
+    21300202: NE PAS ZOOMER - Sprite Megaman_101
+    21300204: NE PAS ZOOMER - Sprite Megaman_102
+    21300206: NE PAS ZOOMER - Sprite Megaman_103
+    21300208: NE PAS ZOOMER - Sprite Megaman_104
+    21300210: NE PAS ZOOMER - Sprite Megaman_105
+    21300212: NE PAS ZOOMER - Sprite Megaman_106
+    21300214: NE PAS ZOOMER - Sprite Megaman_107
+    21300216: NE PAS ZOOMER - Sprite Megaman_108
+    21300218: NE PAS ZOOMER - Sprite Megaman_109
+    21300220: NE PAS ZOOMER - Sprite Megaman_110
+    21300222: NE PAS ZOOMER - Sprite Megaman_111
+    21300224: NE PAS ZOOMER - Sprite Megaman_112
+    21300226: NE PAS ZOOMER - Sprite Megaman_113
+    21300228: NE PAS ZOOMER - Sprite Megaman_114
+    21300230: NE PAS ZOOMER - Sprite Megaman_115
+    21300232: NE PAS ZOOMER - Sprite Megaman_116
+    21300234: NE PAS ZOOMER - Sprite Megaman_117
+    21300236: NE PAS ZOOMER - Sprite Megaman_118
+    21300238: NE PAS ZOOMER - Sprite Megaman_119
+    21300240: NE PAS ZOOMER - Sprite Megaman_120
+    21300242: NE PAS ZOOMER - Sprite Megaman_121
+    21300244: NE PAS ZOOMER - Sprite Megaman_122
+    21300246: NE PAS ZOOMER - Sprite Megaman_123
+    21300248: NE PAS ZOOMER - Sprite Megaman_124
+    21300250: NE PAS ZOOMER - Sprite Megaman_125
+    21300252: NE PAS ZOOMER - Sprite Megaman_126
+    21300254: NE PAS ZOOMER - Sprite Megaman_127
+    21300256: NE PAS ZOOMER - Sprite Megaman_128
+    21300258: NE PAS ZOOMER - Sprite Megaman_129
+    21300260: NE PAS ZOOMER - Sprite Megaman_130
+    21300262: NE PAS ZOOMER - Sprite Megaman_131
+    21300264: NE PAS ZOOMER - Sprite Megaman_132
+    21300266: NE PAS ZOOMER - Sprite Megaman_133
+    21300268: NE PAS ZOOMER - Sprite Megaman_134
+    21300270: NE PAS ZOOMER - Sprite Megaman_135
+    21300272: NE PAS ZOOMER - Sprite Megaman_136
+    21300274: NE PAS ZOOMER - Sprite Megaman_137
+    21300276: NE PAS ZOOMER - Sprite Megaman_138
+    21300278: NE PAS ZOOMER - Sprite Megaman_139
+    21300280: NE PAS ZOOMER - Sprite Megaman_140
+    21300282: NE PAS ZOOMER - Sprite Megaman_141
+    21300284: NE PAS ZOOMER - Sprite Megaman_142
+    21300286: NE PAS ZOOMER - Sprite Megaman_143
+    21300288: NE PAS ZOOMER - Sprite Megaman_144
+    21300290: NE PAS ZOOMER - Sprite Megaman_145
+    21300292: NE PAS ZOOMER - Sprite Megaman_146
+    21300294: NE PAS ZOOMER - Sprite Megaman_147
+    21300296: NE PAS ZOOMER - Sprite Megaman_148
+    21300298: NE PAS ZOOMER - Sprite Megaman_149
+    21300300: NE PAS ZOOMER - Sprite Megaman_150
+    21300302: NE PAS ZOOMER - Sprite Megaman_151
+    21300304: NE PAS ZOOMER - Sprite Megaman_152
+    21300306: NE PAS ZOOMER - Sprite Megaman_153
+    21300308: NE PAS ZOOMER - Sprite Megaman_154
+    21300310: NE PAS ZOOMER - Sprite Megaman_155
+    21300312: NE PAS ZOOMER - Sprite Megaman_156
+    21300314: NE PAS ZOOMER - Sprite Megaman_157
+    21300316: NE PAS ZOOMER - Sprite Megaman_158
+    21300318: NE PAS ZOOMER - Sprite Megaman_159
+    21300320: NE PAS ZOOMER - Sprite Megaman_160
+    21300322: NE PAS ZOOMER - Sprite Megaman_161
+    21300324: NE PAS ZOOMER - Sprite Megaman_162
+    21300326: NE PAS ZOOMER - Sprite Megaman_163
+    21300328: NE PAS ZOOMER - Sprite Megaman_164
+    21300330: NE PAS ZOOMER - Sprite Megaman_165
+    21300332: NE PAS ZOOMER - Sprite Megaman_166
+    21300334: NE PAS ZOOMER - Sprite Megaman_167
+    21300336: NE PAS ZOOMER - Sprite Megaman_168
+    21300338: NE PAS ZOOMER - Sprite Megaman_169
+    21300340: NE PAS ZOOMER - Sprite Megaman_170
+    21300342: NE PAS ZOOMER - Sprite Megaman_171
+    21300344: NE PAS ZOOMER - Sprite Megaman_172
+    21300346: NE PAS ZOOMER - Sprite Megaman_173
+    21300348: NE PAS ZOOMER - Sprite Megaman_174
+    21300350: NE PAS ZOOMER - Sprite Megaman_175
+    21300352: NE PAS ZOOMER - Sprite Megaman_176
+    21300354: NE PAS ZOOMER - Sprite Megaman_177
+    21300356: NE PAS ZOOMER - Sprite Megaman_178
+    21300358: NE PAS ZOOMER - Sprite Megaman_179
+    21300360: NE PAS ZOOMER - Sprite Megaman_180
+    21300362: NE PAS ZOOMER - Sprite Megaman_181
+    21300364: NE PAS ZOOMER - Sprite Megaman_182
+    21300366: NE PAS ZOOMER - Sprite Megaman_183
+    21300368: NE PAS ZOOMER - Sprite Megaman_184
+    21300370: NE PAS ZOOMER - Sprite Megaman_185
+    21300372: NE PAS ZOOMER - Sprite Megaman_186
+    21300374: NE PAS ZOOMER - Sprite Megaman_187
+    21300376: NE PAS ZOOMER - Sprite Megaman_188
+    21300378: NE PAS ZOOMER - Sprite Megaman_189
+    21300380: NE PAS ZOOMER - Sprite Megaman_190
+    21300382: NE PAS ZOOMER - Sprite Megaman_191
+    21300384: NE PAS ZOOMER - Sprite Megaman_192
+    21300386: NE PAS ZOOMER - Sprite Megaman_193
+    21300388: NE PAS ZOOMER - Sprite Megaman_194
+    21300390: NE PAS ZOOMER - Sprite Megaman_195
+    21300392: NE PAS ZOOMER - Sprite Megaman_196
+    21300394: NE PAS ZOOMER - Sprite Megaman_197
+    21300396: NE PAS ZOOMER - Sprite Megaman_198
+    21300398: NE PAS ZOOMER - Sprite Megaman_199
+    21300400: NE PAS ZOOMER - Sprite Megaman_200
+    21300402: NE PAS ZOOMER - Sprite Megaman_201
+    21300404: NE PAS ZOOMER - Sprite Megaman_202
+    21300406: NE PAS ZOOMER - Sprite Megaman_203
+    21300408: NE PAS ZOOMER - Sprite Megaman_204
+    21300410: NE PAS ZOOMER - Sprite Megaman_205
+    21300412: NE PAS ZOOMER - Sprite Megaman_206
+    21300414: NE PAS ZOOMER - Sprite Megaman_207
+    21300416: NE PAS ZOOMER - Sprite Megaman_208
+    21300418: NE PAS ZOOMER - Sprite Megaman_209
+    21300420: NE PAS ZOOMER - Sprite Megaman_210
+    21300422: NE PAS ZOOMER - Sprite Megaman_211
+    21300424: NE PAS ZOOMER - Sprite Megaman_212
+    21300426: NE PAS ZOOMER - Sprite Megaman_213
+    21300428: NE PAS ZOOMER - Sprite Megaman_214
+    21300430: NE PAS ZOOMER - Sprite Megaman_215
+    21300432: NE PAS ZOOMER - Sprite Megaman_216
+    21300434: NE PAS ZOOMER - Sprite Megaman_217
+    21300436: NE PAS ZOOMER - Sprite Megaman_218
+    21300438: NE PAS ZOOMER - Sprite Megaman_219
+    21300440: NE PAS ZOOMER - Sprite Megaman_220
+    21300442: NE PAS ZOOMER - Sprite Megaman_221
+    21300444: NE PAS ZOOMER - Sprite Megaman_222
+    21300446: NE PAS ZOOMER - Sprite Megaman_223
+    21300448: NE PAS ZOOMER - Sprite Megaman_224
+    21300450: NE PAS ZOOMER - Sprite Megaman_225
+    21300452: NE PAS ZOOMER - Sprite Megaman_226
+    21300454: NE PAS ZOOMER - Sprite Megaman_227
+    21300456: NE PAS ZOOMER - Sprite Megaman_228
+    21300458: NE PAS ZOOMER - Sprite Megaman_229
+    21300460: NE PAS ZOOMER - Sprite Megaman_230
+    21300462: NE PAS ZOOMER - Sprite Megaman_231
+    21300464: NE PAS ZOOMER - Sprite Megaman_232
+    21300466: NE PAS ZOOMER - Sprite Megaman_233
+    21300468: NE PAS ZOOMER - Sprite Megaman_234
+    21300470: NE PAS ZOOMER - Sprite Megaman_235
+    21300472: NE PAS ZOOMER - Sprite Megaman_236
+    21300474: NE PAS ZOOMER - Sprite Megaman_237
+    21300476: NE PAS ZOOMER - Sprite Megaman_238
+    21300478: NE PAS ZOOMER - Sprite Megaman_239
+    21300480: NE PAS ZOOMER - Sprite Megaman_240
+    21300482: NE PAS ZOOMER - Sprite Megaman_241
+    21300484: NE PAS ZOOMER - Sprite Megaman_242
+    21300486: NE PAS ZOOMER - Sprite Megaman_243
+    21300488: NE PAS ZOOMER - Sprite Megaman_244
+    21300490: NE PAS ZOOMER - Sprite Megaman_245
+    21300492: NE PAS ZOOMER - Sprite Megaman_246
+    21300494: NE PAS ZOOMER - Sprite Megaman_247
+    21300496: NE PAS ZOOMER - Sprite Megaman_248
+    21300498: NE PAS ZOOMER - Sprite Megaman_249
+    21300500: NE PAS ZOOMER - Sprite Megaman_250
+    21300502: NE PAS ZOOMER - Sprite Megaman_251
+    21300504: NE PAS ZOOMER - Sprite Megaman_252
+    21300506: NE PAS ZOOMER - Sprite Megaman_253
+    21300508: NE PAS ZOOMER - Sprite Megaman_254
+    21300510: NE PAS ZOOMER - Sprite Megaman_255
+    21300512: NE PAS ZOOMER - Sprite Megaman_256
+    21300514: NE PAS ZOOMER - Sprite Megaman_257
+    21300516: NE PAS ZOOMER - Sprite Megaman_258
+    21300518: NE PAS ZOOMER - Sprite Megaman_259
+    21300520: NE PAS ZOOMER - Sprite Megaman_260
+    21300522: NE PAS ZOOMER - Sprite Megaman_261
+    21300524: NE PAS ZOOMER - Sprite Megaman_262
+    21300526: NE PAS ZOOMER - Sprite Megaman_263
+    21300528: NE PAS ZOOMER - Sprite Megaman_264
+    21300530: NE PAS ZOOMER - Sprite Megaman_265
+    21300532: NE PAS ZOOMER - Sprite Megaman_266
+    21300534: NE PAS ZOOMER - Sprite Megaman_267
+    21300536: NE PAS ZOOMER - Sprite Megaman_268
+    21300538: NE PAS ZOOMER - Sprite Megaman_269
+    21300540: NE PAS ZOOMER - Sprite Megaman_270
+    21300542: NE PAS ZOOMER - Sprite Megaman_271
+    21300544: NE PAS ZOOMER - Sprite Megaman_272
+    21300546: NE PAS ZOOMER - Sprite Megaman_273
+    21300548: NE PAS ZOOMER - Sprite Megaman_274
+    21300550: NE PAS ZOOMER - Sprite Megaman_275
+    21300552: NE PAS ZOOMER - Sprite Megaman_276
+    21300554: NE PAS ZOOMER - Sprite Megaman_277
+    21300556: NE PAS ZOOMER - Sprite Megaman_278
+    21300558: NE PAS ZOOMER - Sprite Megaman_279
+    21300560: NE PAS ZOOMER - Sprite Megaman_280
+    21300562: NE PAS ZOOMER - Sprite Megaman_281
+    21300564: NE PAS ZOOMER - Sprite Megaman_282
+    21300566: NE PAS ZOOMER - Sprite Megaman_283
+    21300568: NE PAS ZOOMER - Sprite Megaman_284
+    21300570: NE PAS ZOOMER - Sprite Megaman_285
+    21300572: NE PAS ZOOMER - Sprite Megaman_286
+    21300574: NE PAS ZOOMER - Sprite Megaman_287
+    21300576: NE PAS ZOOMER - Sprite Megaman_288
+    21300578: NE PAS ZOOMER - Sprite Megaman_289
+    21300580: NE PAS ZOOMER - Sprite Megaman_290
+    21300582: NE PAS ZOOMER - Sprite Megaman_291
+    21300584: NE PAS ZOOMER - Sprite Megaman_292
+    21300586: NE PAS ZOOMER - Sprite Megaman_293
+    21300588: NE PAS ZOOMER - Sprite Megaman_294
+    21300590: NE PAS ZOOMER - Sprite Megaman_295
+    21300592: NE PAS ZOOMER - Sprite Megaman_296
+    21300594: NE PAS ZOOMER - Sprite Megaman_297
+    21300596: NE PAS ZOOMER - Sprite Megaman_298
+    21300598: NE PAS ZOOMER - Sprite Megaman_299
+    21300600: NE PAS ZOOMER - Sprite Megaman_300
+    21300602: NE PAS ZOOMER - Sprite Megaman_301
+    21300604: NE PAS ZOOMER - Sprite Megaman_302
+    21300606: NE PAS ZOOMER - Sprite Megaman_303
+    21300608: NE PAS ZOOMER - Sprite Megaman_304
+    21300610: NE PAS ZOOMER - Sprite Megaman_305
+    21300612: NE PAS ZOOMER - Sprite Megaman_306
+    21300614: NE PAS ZOOMER - Sprite Megaman_307
+    21300616: NE PAS ZOOMER - Sprite Megaman_308
+    21300618: NE PAS ZOOMER - Sprite Megaman_309
+    21300620: NE PAS ZOOMER - Sprite Megaman_310
+    21300622: NE PAS ZOOMER - Sprite Megaman_311
+    21300624: NE PAS ZOOMER - Sprite Megaman_312
+    21300626: NE PAS ZOOMER - Sprite Megaman_313
+    21300628: NE PAS ZOOMER - Sprite Megaman_314
+    21300630: NE PAS ZOOMER - Sprite Megaman_315
+    21300632: NE PAS ZOOMER - Sprite Megaman_316
+    21300634: NE PAS ZOOMER - Sprite Megaman_317
+    21300636: NE PAS ZOOMER - Sprite Megaman_318
+    21300638: NE PAS ZOOMER - Sprite Megaman_319
+    21300640: NE PAS ZOOMER - Sprite Megaman_320
+    21300642: NE PAS ZOOMER - Sprite Megaman_321
+    21300644: NE PAS ZOOMER - Sprite Megaman_322
+    21300646: NE PAS ZOOMER - Sprite Megaman_323
+    21300648: NE PAS ZOOMER - Sprite Megaman_324
+    21300650: NE PAS ZOOMER - Sprite Megaman_325
+    21300652: NE PAS ZOOMER - Sprite Megaman_326
+    21300654: NE PAS ZOOMER - Sprite Megaman_327
+    21300656: NE PAS ZOOMER - Sprite Megaman_328
+    21300658: NE PAS ZOOMER - Sprite Megaman_329
+    21300660: NE PAS ZOOMER - Sprite Megaman_330
+    21300662: NE PAS ZOOMER - Sprite Megaman_331
+    21300664: NE PAS ZOOMER - Sprite Megaman_332
+    21300666: NE PAS ZOOMER - Sprite Megaman_333
+    21300668: NE PAS ZOOMER - Sprite Megaman_334
+    21300670: NE PAS ZOOMER - Sprite Megaman_335
+    21300672: NE PAS ZOOMER - Sprite Megaman_336
+    21300674: NE PAS ZOOMER - Sprite Megaman_337
+    21300676: NE PAS ZOOMER - Sprite Megaman_338
+    21300678: NE PAS ZOOMER - Sprite Megaman_339
+    21300680: NE PAS ZOOMER - Sprite Megaman_340
+    21300682: NE PAS ZOOMER - Sprite Megaman_341
+    21300684: NE PAS ZOOMER - Sprite Megaman_342
+    21300686: NE PAS ZOOMER - Sprite Megaman_343
+    21300688: NE PAS ZOOMER - Sprite Megaman_344
+    21300690: NE PAS ZOOMER - Sprite Megaman_345
+    21300692: NE PAS ZOOMER - Sprite Megaman_346
+    21300694: NE PAS ZOOMER - Sprite Megaman_347
+    21300696: NE PAS ZOOMER - Sprite Megaman_348
+    21300698: NE PAS ZOOMER - Sprite Megaman_349
+    21300700: NE PAS ZOOMER - Sprite Megaman_350
+    21300702: NE PAS ZOOMER - Sprite Megaman_351
+    21300704: NE PAS ZOOMER - Sprite Megaman_352
+    21300706: NE PAS ZOOMER - Sprite Megaman_353
+    21300708: NE PAS ZOOMER - Sprite Megaman_354
+    21300710: NE PAS ZOOMER - Sprite Megaman_355
+    21300712: NE PAS ZOOMER - Sprite Megaman_356
+    21300714: NE PAS ZOOMER - Sprite Megaman_357
+    21300716: NE PAS ZOOMER - Sprite Megaman_358
+    21300718: NE PAS ZOOMER - Sprite Megaman_359
+    21300720: NE PAS ZOOMER - Sprite Megaman_360
+    21300722: NE PAS ZOOMER - Sprite Megaman_361
+    21300724: NE PAS ZOOMER - Sprite Megaman_362
+    21300726: NE PAS ZOOMER - Sprite Megaman_363
+    21300728: NE PAS ZOOMER - Sprite Megaman_364
+    21300730: NE PAS ZOOMER - Sprite Megaman_365
+    21300732: NE PAS ZOOMER - Sprite Megaman_366
+    21300734: NE PAS ZOOMER - Sprite Megaman_367
+    21300736: NE PAS ZOOMER - Sprite Megaman_368
+    21300738: NE PAS ZOOMER - Sprite Megaman_369
+    21300740: NE PAS ZOOMER - Sprite Megaman_370
+    21300742: NE PAS ZOOMER - Sprite Megaman_371
+    21300744: NE PAS ZOOMER - Sprite Megaman_372
+    21300746: NE PAS ZOOMER - Sprite Megaman_373
+    21300748: NE PAS ZOOMER - Sprite Megaman_374
+    21300750: NE PAS ZOOMER - Sprite Megaman_375
+    21300752: NE PAS ZOOMER - Sprite Megaman_376
+    21300754: NE PAS ZOOMER - Sprite Megaman_377
+    21300756: NE PAS ZOOMER - Sprite Megaman_378
+    21300758: NE PAS ZOOMER - Sprite Megaman_379
+    21300760: NE PAS ZOOMER - Sprite Megaman_380
+    21300762: NE PAS ZOOMER - Sprite Megaman_381
+    21300764: NE PAS ZOOMER - Sprite Megaman_382
+    21300766: NE PAS ZOOMER - Sprite Megaman_383
+    21300768: NE PAS ZOOMER - Sprite Megaman_384
+    21300770: NE PAS ZOOMER - Sprite Megaman_385
+    21300772: NE PAS ZOOMER - Sprite Megaman_386
+    21300774: NE PAS ZOOMER - Sprite Megaman_387
+    21300776: NE PAS ZOOMER - Sprite Megaman_388
+    21300778: NE PAS ZOOMER - Sprite Megaman_389
+    21300780: NE PAS ZOOMER - Sprite Megaman_390
+    21300782: NE PAS ZOOMER - Sprite Megaman_391
+    21300784: NE PAS ZOOMER - Sprite Megaman_392
+    21300786: NE PAS ZOOMER - Sprite Megaman_393
+    21300788: NE PAS ZOOMER - Sprite Megaman_394
+    21300790: NE PAS ZOOMER - Sprite Megaman_395
+    21300792: NE PAS ZOOMER - Sprite Megaman_396
+    21300794: NE PAS ZOOMER - Sprite Megaman_397
+    21300796: NE PAS ZOOMER - Sprite Megaman_398
+    21300798: NE PAS ZOOMER - Sprite Megaman_399
+    21300800: NE PAS ZOOMER - Sprite Megaman_400
+    21300802: NE PAS ZOOMER - Sprite Megaman_401
+    21300804: NE PAS ZOOMER - Sprite Megaman_402
+    21300806: NE PAS ZOOMER - Sprite Megaman_403
+    21300808: NE PAS ZOOMER - Sprite Megaman_404
+    21300810: NE PAS ZOOMER - Sprite Megaman_405
+    21300812: NE PAS ZOOMER - Sprite Megaman_406
+    21300814: NE PAS ZOOMER - Sprite Megaman_407
+    21300816: NE PAS ZOOMER - Sprite Megaman_408
+    21300818: NE PAS ZOOMER - Sprite Megaman_409
+    21300820: NE PAS ZOOMER - Sprite Megaman_410
+    21300822: NE PAS ZOOMER - Sprite Megaman_411
+    21300824: NE PAS ZOOMER - Sprite Megaman_412
+    21300826: NE PAS ZOOMER - Sprite Megaman_413
+    21300828: NE PAS ZOOMER - Sprite Megaman_414
+    21300830: NE PAS ZOOMER - Sprite Megaman_415
+    21300832: NE PAS ZOOMER - Sprite Megaman_416
+    21300834: NE PAS ZOOMER - Sprite Megaman_417
+    21300836: NE PAS ZOOMER - Sprite Megaman_418
+    21300838: NE PAS ZOOMER - Sprite Megaman_419
+    21300840: NE PAS ZOOMER - Sprite Megaman_420
+    21300842: NE PAS ZOOMER - Sprite Megaman_421
+    21300844: NE PAS ZOOMER - Sprite Megaman_422
+    21300846: NE PAS ZOOMER - Sprite Megaman_423
+    21300848: NE PAS ZOOMER - Sprite Megaman_424
+    21300850: NE PAS ZOOMER - Sprite Megaman_425
+    21300852: NE PAS ZOOMER - Sprite Megaman_426
+    21300854: NE PAS ZOOMER - Sprite Megaman_427
+    21300856: NE PAS ZOOMER - Sprite Megaman_428
+    21300858: NE PAS ZOOMER - Sprite Megaman_429
+    21300860: NE PAS ZOOMER - Sprite Megaman_430
+    21300862: NE PAS ZOOMER - Sprite Megaman_431
+    21300864: NE PAS ZOOMER - Sprite Megaman_432
+    21300866: NE PAS ZOOMER - Sprite Megaman_433
+    21300868: NE PAS ZOOMER - Sprite Megaman_434
+    21300870: NE PAS ZOOMER - Sprite Megaman_435
+    21300872: NE PAS ZOOMER - Sprite Megaman_436
+    21300874: NE PAS ZOOMER - Sprite Megaman_437
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NE PAS ZOOMER - Sprite Megaman_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 686
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17925eb26ab97e488942facac97a6b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NE PAS ZOOMER - Sprite Megaman_1
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 678
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee487ddbc47b3294ab5132e68e9cfb8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NE PAS ZOOMER - Sprite Megaman_2
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 659
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7954c459c58a6428454f5d5d1199db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NE PAS ZOOMER - Sprite Megaman_3
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 631
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbae5b2e0e51ea4285305526384929b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NE PAS ZOOMER - Sprite Megaman_4
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 668
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9d282e5a19f4b46a2666ba1b2d6378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NE PAS ZOOMER - Sprite Megaman_5
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 663
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58af8530a60addd4dabf641f7dbb36fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NE PAS ZOOMER - Sprite Megaman_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 140
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f64df50fa202374b829b51d46af1ed7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NE PAS ZOOMER - Sprite Megaman_7
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 140
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1209614318ad5f842ba3720185c20068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NE PAS ZOOMER - Sprite Megaman_8
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 93
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad229da837c02084da3f9da0637b13d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NE PAS ZOOMER - Sprite Megaman_9
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 135
+        width: 483
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b95f87c7acd0804db54321af45e8059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NE PAS ZOOMER - Sprite Megaman_10
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 159
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122920ccfdfb9974c8bc0159b4466936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NE PAS ZOOMER - Sprite Megaman_11
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 163
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e675d9c0bbc9964caf2a2d82f44c13c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c6d1f61b2de5eeb41a1f5fd20750b850
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

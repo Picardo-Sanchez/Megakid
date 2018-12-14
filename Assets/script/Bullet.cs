@@ -2,7 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class Bullet : MonoBehaviour {
+    public Animator anim;
+
     public Direction bulletDirection = Direction.RIGHT;
     public float speed = 10.0f;
 

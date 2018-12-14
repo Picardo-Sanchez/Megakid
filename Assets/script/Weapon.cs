@@ -8,10 +8,21 @@ public class Weapon : MonoBehaviour {
     public GameObject bulletCharge;
     bool charge = false;
     int count = 0;
+    private bool _firing;
 
     private PlayerMovement playerMovement;
-	// Use this for initialization
-	void Start () {
+
+    public bool Firing
+    {
+        get
+        {
+            return _firing;
+        }
+      
+    }
+
+    // Use this for initialization
+    void Start () {
         playerMovement = GetComponent<PlayerMovement>();
 	}
 	
@@ -19,8 +30,10 @@ public class Weapon : MonoBehaviour {
 	void Update () {
         if (Input.GetButtonDown("Tir"))
         {
+            _firing = true;
             var tBullet = Instantiate(bullet, gameObject.transform.position, bullet.transform.rotation) as GameObject;
             tBullet.GetComponent<Bullet>().bulletDirection = playerMovement.PlayerDirection;
+            _firing = false;
         }
     
 	}
@@ -39,7 +52,7 @@ public class Weapon : MonoBehaviour {
         if (Input.GetButtonUp("Tir"))
         {
             print (count);
-            if( count > 89)
+            if( count > 69)
             {
                 var tBullet = Instantiate(bulletCharge, gameObject.transform.position, bullet.transform.rotation) as GameObject;
                 tBullet.GetComponent<Bullet>().bulletDirection = playerMovement.PlayerDirection;
