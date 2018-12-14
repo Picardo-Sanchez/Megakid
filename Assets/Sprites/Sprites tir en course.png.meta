@@ -1,23 +1,27 @@
 fileFormatVersion: 2
-guid: dae9fe14a249b614a9c9ac4b269108ce
+guid: 6d7ca527f8695ef4397101675b3831bf
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Sprites saut_0
-    21300002: Sprites saut_1
-    21300004: Sprites saut_2
-    21300006: Sprites saut_3
-    21300008: Sprites saut_4
-    21300010: Sprites saut_5
-    21300012: Sprites saut_6
-    21300014: Sprites saut_7
-    21300016: Sprites saut_8
-    21300018: Sprites saut_9
-    21300020: Sprites saut_11
-    21300022: Sprites saut_13
-    21300024: Sprites saut_17
-    21300026: Sprites saut_18
-    21300028: Sprites saut_19
-    21300030: Sprites saut_20
+    21300000: Sprites tir en course_0
+    21300002: Sprites tir en course_1
+    21300004: Sprites tir en course_2
+    21300006: Sprites tir en course_3
+    21300008: Sprites tir en course_4
+    21300010: Sprites tir en course_5
+    21300012: Sprites tir en course_6
+    21300014: Sprites tir en course_7
+    21300016: Sprites tir en course_8
+    21300018: Sprites tir en course_9
+    21300020: Sprites tir en course_11
+    21300022: Sprites tir en course_12
+    21300024: Sprites tir en course_13
+    21300026: Sprites tir en course_14
+    21300028: Sprites tir en course_15
+    21300030: Sprites tir en course_16
+    21300032: Sprites tir en course_17
+    21300034: Sprites tir en course_18
+    21300036: Sprites tir en course_20
+    21300038: Sprites tir en course_21
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -100,13 +104,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sprites saut_0
+      name: Sprites tir en course_0
       rect:
         serializedVersion: 2
-        x: 45
-        y: 763
-        width: 360
-        height: 595
+        x: 55
+        y: 720
+        width: 500
+        height: 500
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -114,19 +118,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2cb50affaa18b1f48bcb68d11b284464
+      spriteID: 89882fa322d462b4ab4c905d98005dbb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites saut_1
+      name: Sprites tir en course_1
       rect:
         serializedVersion: 2
-        x: 415
-        y: 763
-        width: 324
-        height: 621
+        x: 562
+        y: 746
+        width: 500
+        height: 500
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,19 +138,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc3b0bf173b842a4abb5d4066922e017
+      spriteID: 38a379b9ba73a904f99165d8bb6c4f06
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites saut_2
+      name: Sprites tir en course_2
       rect:
         serializedVersion: 2
-        x: 723
-        y: 784
-        width: 339
-        height: 584
+        x: 1128
+        y: 731
+        width: 500
+        height: 500
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,19 +158,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e87900df621f3ad468a97b44a9bc3d9b
+      spriteID: f5a8634646f178d4e811077a2eeca0f2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites saut_3
+      name: Sprites tir en course_3
       rect:
         serializedVersion: 2
-        x: 1239
-        y: 752
-        width: 413
-        height: 606
+        x: 1690
+        y: 736
+        width: 500
+        height: 500
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,39 +178,39 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54496d0d03d74f44990f64605bb4cde9
+      spriteID: eba4c00658988d04db417de7a7720f68
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites saut_4
+      name: Sprites tir en course_4
       rect:
         serializedVersion: 2
-        x: 1688
-        y: 768
-        width: 418
-        height: 600
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2233
+        y: 723
+        width: 462
+        height: 488
+      alignment: 9
+      pivot: {x: 0.52224904, y: 0.45787236}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 417d0cd8d4e6e814b92d553374fcf183
+      spriteID: 9bb1d33894d2a56408d395e020cbe4eb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites saut_5
+      name: Sprites tir en course_5
       rect:
         serializedVersion: 2
-        x: 2083
-        y: 818
-        width: 476
-        height: 508
+        x: 2736
+        y: 726
+        width: 500
+        height: 500
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,19 +218,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 934b380b20f6b0c47aa83e5f182d1128
+      spriteID: 140ba0da1b9621249ac05bc6b01d2df7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites saut_6
+      name: Sprites tir en course_6
       rect:
         serializedVersion: 2
-        x: 2558
-        y: 797
-        width: 429
-        height: 555
+        x: 3278
+        y: 716
+        width: 500
+        height: 500
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,19 +238,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dda0d2f35024c9e4394f5bae695d8451
+      spriteID: 4489842607471c04fa5f9eab4e642b80
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites saut_7
+      name: Sprites tir en course_7
       rect:
         serializedVersion: 2
-        x: 81
-        y: 142
-        width: 444
-        height: 574
+        x: 3865
+        y: 721
+        width: 500
+        height: 500
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -254,19 +258,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb363635f072db147b233a5ee9807191
+      spriteID: d5552bfbb11964c4394cd758ecf58c22
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites saut_8
+      name: Sprites tir en course_8
       rect:
         serializedVersion: 2
-        x: 546
-        y: 137
-        width: 427
-        height: 527
+        x: 4452
+        y: 726
+        width: 500
+        height: 500
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,19 +278,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64b6915780b58884faa45a2145510836
+      spriteID: 6123904d9858e3b4fa2039eaf42704b2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites saut_9
+      name: Sprites tir en course_9
       rect:
         serializedVersion: 2
-        x: 974
-        y: 141
-        width: 459
-        height: 444
+        x: 4993
+        y: 705
+        width: 500
+        height: 500
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,19 +298,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0766a955d75ff8459ac9a4850375f85
+      spriteID: 70572f63ac4f5a8458baaef4c055bb36
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites saut_11
+      name: Sprites tir en course_11
       rect:
         serializedVersion: 2
-        x: 3130
-        y: 109
-        width: 312
-        height: 490
+        x: 64
+        y: 214
+        width: 500
+        height: 500
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -314,19 +318,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be9d720ee8e5a4b4faa8212cd1f1998d
+      spriteID: 0982f7d9f409f4040898c3e5bb96063a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites saut_13
+      name: Sprites tir en course_12
       rect:
         serializedVersion: 2
-        x: 2982
-        y: 810
-        width: 423
-        height: 545
+        x: 580
+        y: 225
+        width: 500
+        height: 500
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -334,19 +338,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ead679a5b98eab448aa51c28655595a
+      spriteID: 496ab62c840149148b564f3043078aff
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites saut_17
+      name: Sprites tir en course_13
       rect:
         serializedVersion: 2
-        x: 1438
-        y: 95
-        width: 422
-        height: 574
+        x: 1154
+        y: 219
+        width: 500
+        height: 500
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -354,19 +358,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f57744217e614854d8307152afe5a59c
+      spriteID: 1044790cd8e63524787b08296d4e11c6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites saut_18
+      name: Sprites tir en course_14
       rect:
         serializedVersion: 2
-        x: 1861
-        y: 72
-        width: 437
-        height: 570
+        x: 1776
+        y: 219
+        width: 500
+        height: 500
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,19 +378,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69bd4e1369b79f847be4cef18163804d
+      spriteID: ee515e08838d6c04597e99a3cafda697
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites saut_19
+      name: Sprites tir en course_15
       rect:
         serializedVersion: 2
-        x: 2444
-        y: 106
-        width: 353
-        height: 554
+        x: 2313
+        y: 230
+        width: 500
+        height: 500
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -394,19 +398,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd90e0186d7e97842b84a8087cba9ca6
+      spriteID: b50c5108d600cb4469bbb4bdd0432c82
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites saut_20
+      name: Sprites tir en course_16
       rect:
         serializedVersion: 2
-        x: 2803
-        y: 109
-        width: 314
-        height: 502
+        x: 2845
+        y: 225
+        width: 500
+        height: 500
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -414,7 +418,87 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef8913574fab2b547ae11a79e6d714b4
+      spriteID: 821efe6f5980ab745b1d5c63aba49cfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites tir en course_17
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 236
+        width: 503
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe852116dc77fc4f9ad4e5c62ce2bc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites tir en course_18
+      rect:
+        serializedVersion: 2
+        x: 3925
+        y: 225
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdd164a28d4d214ca121af0d3218a28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites tir en course_20
+      rect:
+        serializedVersion: 2
+        x: 4451
+        y: 245
+        width: 498
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d30f7de894562b46bb5ac9416da7f51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites tir en course_21
+      rect:
+        serializedVersion: 2
+        x: 4986
+        y: 228
+        width: 495
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4985a8d6f04f141977bf27e4fd83ab
       vertices: []
       indices: 
       edges: []
@@ -422,7 +506,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: a92ba03496ec8e54d8d60bdcc124f9dd
+    spriteID: 6d962fcde3442f04899b64f1fcb5f60a
     vertices: []
     indices: 
     edges: []

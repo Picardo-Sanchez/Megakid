@@ -525,12 +525,12 @@ TextureImporter:
       name: NE PAS ZOOMER - Sprite Megaman_0
       rect:
         serializedVersion: 2
-        x: 75
-        y: 663
+        x: 70
+        y: 686
         width: 500
         height: 500
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -546,11 +546,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 603
-        y: 659
+        y: 678
         width: 500
         height: 500
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -566,11 +566,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1145
-        y: 654
+        y: 659
         width: 500
         height: 500
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -585,12 +585,12 @@ TextureImporter:
       name: NE PAS ZOOMER - Sprite Megaman_3
       rect:
         serializedVersion: 2
-        x: 1645
-        y: 626
+        x: 1650
+        y: 631
         width: 500
         height: 500
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -605,12 +605,12 @@ TextureImporter:
       name: NE PAS ZOOMER - Sprite Megaman_4
       rect:
         serializedVersion: 2
-        x: 2098
-        y: 645
+        x: 2103
+        y: 668
         width: 500
         height: 500
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -626,11 +626,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2612
-        y: 649
+        y: 663
         width: 500
         height: 500
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -645,12 +645,12 @@ TextureImporter:
       name: NE PAS ZOOMER - Sprite Megaman_6
       rect:
         serializedVersion: 2
-        x: 70
-        y: 88
+        x: 75
+        y: 140
         width: 500
         height: 500
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -665,12 +665,12 @@ TextureImporter:
       name: NE PAS ZOOMER - Sprite Megaman_7
       rect:
         serializedVersion: 2
-        x: 598
-        y: 93
+        x: 593
+        y: 140
         width: 500
         height: 500
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -690,7 +690,7 @@ TextureImporter:
         width: 500
         height: 500
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -705,12 +705,12 @@ TextureImporter:
       name: NE PAS ZOOMER - Sprite Megaman_9
       rect:
         serializedVersion: 2
-        x: 1561
-        y: 121
-        width: 500
-        height: 500
+        x: 1583
+        y: 135
+        width: 483
+        height: 477
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -726,11 +726,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2075
-        y: 117
+        y: 159
         width: 500
         height: 500
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -745,12 +745,12 @@ TextureImporter:
       name: NE PAS ZOOMER - Sprite Megaman_11
       rect:
         serializedVersion: 2
-        x: 2608
-        y: 126
+        x: 2617
+        y: 163
         width: 500
         height: 500
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
