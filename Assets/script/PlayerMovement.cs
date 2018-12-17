@@ -10,11 +10,12 @@ public class PlayerMovement : MonoBehaviour
     public bool isOnGround = false;
     public float jumpPower = 7.0f;
     public Weapon Weapon;
+    public bool mouvement;
 
     public Animator anim;
     private Transform _transform;
     private Rigidbody2D _rigidbody;
-    private Direction playerDirection = Direction.RIGHT;
+    private Direction playerDirection = Direction.LEFT;
 
     public Direction PlayerDirection
     {
